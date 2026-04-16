@@ -10,7 +10,7 @@ I am a motivated and detail-oriented **Electronics/Embedded Systems professional
 
 **Programming & Data**
 * ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) **Embedded C Programming** & Efficient Algorithm Design
-* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) **C++ Programming** (Object-Oriented Programming concepts)
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) **C++ Programming** (Object-Oriented Programming)
 * **Data Structures** & Real-time application development
 
 **Microcontrollers & Hardware**
@@ -33,7 +33,7 @@ I am a motivated and detail-oriented **Electronics/Embedded Systems professional
 
 ### 📈 Featured Projects
 
-#### 🛰️ Smart Industrial Machine Monitoring using IoT and CAN
+#### 🛰️ [Smart Industrial Machine Monitoring using IoT and CAN](https://github.com/Piyushpms/Smart_Industrial_Machine_Monitoring)
 * Designed an **STM32-based** architecture to monitor machine parameters (temperature, humidity, vibration, gas levels).
 * Implemented reliable **CAN bus** communication using MCP2551 for noise-tolerant data transfer.
 * Built a gateway with **STM32F407** to process CAN data and forward it to **ESP32-C3** via UART for cloud integration.
@@ -48,7 +48,7 @@ I am a motivated and detail-oriented **Electronics/Embedded Systems professional
 ### 💼 Professional Experience
 
 **Graduate Trainee Engineer | WaveNxd Technologies Pvt. Ltd**
-*Nov 2024 - May 2025*
+*Nov 2024 - May 2025 | Kolhapur*
 * Performed hardware testing and validation of vibration sensors and ultrasonic spray nozzles.
 * Developed and maintained controlled testing environments to evaluate nozzle performance.
 * Conducted functional testing and verification of hardware-software integration.
@@ -58,10 +58,13 @@ I am a motivated and detail-oriented **Electronics/Embedded Systems professional
 
 ### 🎓 Education
 
-* **Post Graduate Diploma in Embedded System Design**
-    * Sunbeam Institute of Information and Technology, Pune
-* **B-Tech in Electronics and Telecommunication Engineering**
-    * KIT's College of Engineering, Kolhapur
+**Post Graduate Diploma in Embedded System Design (PG-DESD)** 
+*Sunbeam Institute of Information and Technology, Pune* 
+* **Grade:** B 
+
+**B-Tech in Electronics and Telecommunication Engineering** 
+*KIT's College of Engineering, Kolhapur* 
+* **Aggregate:** 60.5% 
 
 ---
 
